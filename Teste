@@ -1,0 +1,53 @@
+import time
+
+#variaveis
+
+
+print("Bem vindes novos agentes!!!")
+time.sleep(2)
+print(">>>>>REGRAS....." + ".....DEVEM<<<<<")
+print("    >>>>>>SER SEGUIDAS<<<<<<")
+time.sleep(3)
+print("Iniciando armazenamento de dados")
+time.sleep(2)
+print("...protocolo..." + "..SCP.." + "...agentes...")
+time.sleep(2)
+print(">>>Sua identidade ficara salva no banco de dados do SCP..." + "..por favor responda com a verdade para sua segurança e dos demais agentes...")
+time.sleep(5)
+print("...qualquer mentira resultara em desativaçao do >>>agente<<<..." + "...e dos demais vinculados ao crime...")
+time.sleep(5)
+print("...Em t(Xmin) receberão os protocolos a serem seguidos...")
+time.sleep(4)
+print("...Por favor, identifique-se...")
+n = input("•")
+time.sleep(2)
+print("Bem vindo",n + "!")
+time.sleep(1)
+print("Para termos de conversação, responda a seguir somente com >S< ou >N<")
+time.sleep(3)
+a = input("Conheçe o SCP?")
+if a == ("N"):
+  print("O SCP - Serviço de Controle de Pragas...")
+elif a == ("S"):
+  print("Ja que conhece o SCP, vamos as regras...")
+
+
+
+
+      
+
+
+
+  
+    
+
+   
+    
+  
+
+
+
+
+
+  
+  
